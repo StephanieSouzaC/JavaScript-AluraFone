@@ -1,2 +1,3 @@
 # JavaScript-AluraFone
- Teclas de telefone desenvolvido em JavaScript
+
+ Teclas de telefone interativas desenvolvidas em JavaScript.
